@@ -1,0 +1,3 @@
+# ignore path
+frontend/expence_tracker/node_modules
+backend/env
